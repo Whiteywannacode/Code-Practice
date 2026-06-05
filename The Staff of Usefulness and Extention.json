@@ -1,0 +1,37 @@
+
+"_meta": {
+  "sources": [
+    {
+      "json": "staffofuseandextention",
+      "full": "Staff of Usefulness and Extention",
+      "abbreviation": "StUE",
+      "color": "a85032",
+      "authors": [
+        "Billy McGee III"
+      ],
+      "convertedBy": [
+        "Billius McGiles"
+      ],
+      "dateReleased": "2026-05-04",
+      "version": "1.0",
+    }
+  ],
+  "edition": "classic",
+  "status": "ready",
+  "dateAdded": 1729973698,
+  "dateLastModified": 1757175607
+}
+
+"item": [
+    {
+        "name": "Staff of Usefulness and Extention",
+        "source": "staffofuseandextention",
+        "page": "1",
+        "type": "M",
+        "rarity": "artifact",
+        "entries": [
+            "This simple looking but powerful staff has 10 charges and can be wielded as a magic {@item +3 Quarterstaff|xphb|quarterstaff} that grants a +3 bonus to attack and damage rolls made with it.",
+            "b"
+        ]
+    }
+]
